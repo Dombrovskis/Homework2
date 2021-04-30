@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=New+Tegomin&display=swap");
+
+body {
+  background-color: rgb(182, 181, 181);
+  font-family: "Lobster", cursive !important;
+
+  background-image: url("https://www.wallpapertip.com/wmimgs/227-2275421_london-desktop-wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+section {
+  background-color: rgb(174, 196, 214, 0.5);
+}
+
+.text{
+    background-color: rgb(174, 196, 214, 0.5);
+}
+
+footer{
+    margin-left: 65%;
+    text-align: right;
+}
+.list{
+    list-style-type: lower-alpha;
+}
+.midlist{
+    margin-left: 200px;
+    background-color: rgb(174, 196, 214, 0.5);
+    font-size: 150%;
+
+}
+.link{
+    font-size: 150%;
+   
+}
+p{
+    font-size: 145%;
+}
